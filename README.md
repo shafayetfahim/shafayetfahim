@@ -1,23 +1,17 @@
 <h1 align="center">Hi, I'm Shafayet!</h1>
-<h3 align="center">A passionate Python and Front-End (and a beginner designer) developer from Brazil</h3>
+<h3 align="center">I'm a passionate and data-oriented student based in Rochester, NY where I attend the University of Rochester.</h3>
 
-- 🔭 I’m currently working on my **Python Course**
+• Highlighted Courses: **Computation and Formal Systems, Introduction to Artificial Intelligence, Computer Organization, Advanced JAVA Programming, Data Structures**
 
-- 🌱 I’m currently learning **Python, HTML5 and CSS3**
+• What I'm working on: **Expanding the abilities of Cardak, an ANPR-motivated program that uses web-agents to bring license plate literals to a car's make, model, and year.**
 
-- 👯 I’m looking to collaborate on **front-end and back-end projects**
-
-- 📫 How to reach me: **brantlauro@gmail.com**
-
-- ⚡ What I like to do: **I like so much reading, basketball and skateboarding...and coding of course**
+• Contact me at **s.fahim@rochester.edu**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lauro_brant-1/)
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brantlauro/)
-[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/brantlauro)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:produtor.brantlauro@gmail.com)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shafayetfahim/)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sfahim@u.rochester.edu)
   
 </div>
 
