@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Shafayet!</h1>
 <h3 align="center">I'm a passionate and data-oriented student based in Rochester, NY where I attend the University of Rochester.</h3>
 
-• Highlighted Courses: **Computation and Formal Systems, Introduction to Artificial Intelligence, Computer Organization, Advanced JAVA Programming, Data Structures**
+• Highlighted Coursework: **Computation and Formal Systems, Introduction to Artificial Intelligence, Computer Organization, Advanced JAVA Programming, Data Structures**
 
 • What I'm working on: **Expanding the abilities of Cardak, an ANPR-motivated program that uses web-agents to bring license plate literals to a car's make, model, and year.**
 
