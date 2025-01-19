@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Shafayet!</h1>
-<h3 align="center">I'm a passionate and data-oriented student based in Rochester, NY where I attend the University of Rochester.</h3>
+<h3 align="center">Computer Science student at University of Rochester in Rochester, NY.</h3>
 
 • Highlighted Coursework: **Computation and Formal Systems, Introduction to Artificial Intelligence, Computer Organization, Advanced JAVA Programming, Data Structures**
 
