@@ -1,5 +1,6 @@
-# 👋 Hi, I'm Shafayet Fahim  
-🎓 Computer Science @ University of Rochester | 💼 Product Manager & Software Engineer
+# Shafayet Fahim  
+B.S. in Computer Science at the University of Rochester
+Product Manager & Software Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-shafayetfahim-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/shafayetfahim)
 [![GitHub](https://img.shields.io/badge/GitHub-shafayetfahim-lightgrey?style=flat-square&logo=github)](https://github.com/shafayetfahim)
