@@ -1,5 +1,5 @@
 # Shafayet Fahim  
-B.S. Computer Science, University of Rochester, 2026  
+B.S. Computer Science, University of Rochester, May 2026  
 
 Interested in roles that allow me to expand my knowledge of system design, including but not limited to backend software engineering. I'm passionate about utilizing technology for the greater good, and have been involved locally in professional, volunteer, and academic capacities, all of which have been extremely rewarding—ask me about them!
 
