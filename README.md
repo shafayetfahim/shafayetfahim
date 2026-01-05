@@ -1,4 +1,4 @@
-![University of Rochester](https://github.com/shafayetfahim/shafayetfahim/blob/main/rochester.png)
+![University of Rochester](https://github.com/shafayetfahim/shafayetfahim/blob/main/rochester.jpg)
 # Shafayet Fahim  
 University of Rochester<br>B.S. Computer Science (Expected May 2026)
 
