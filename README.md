@@ -1,8 +1,7 @@
 ![University of Rochester](https://github.com/shafayetfahim/shafayetfahim/blob/main/rochester.jpg)
 # Shafayet Fahim
-Georgia Tech<br>M.S. Computer Science (Expected May 2028)<br>
-
-University of Rochester<br>B.S. Computer Science (Expected May 2026)
+Georgia Institute of Technology - M.S., Computer Science (2026 - 2028)<br>
+University of Rochester - B.S., Computer Science (2024 - 2026)
 
 Interested in roles that allow me to expand my knowledge of system design and the software development lifecycle, including but not limited to backend software engineering. I'm passionate about utilizing technology for the greater good, and have been involved locally in professional, volunteer, and academic capacities, all of which have been extremely rewarding—ask me about them!
 
